@@ -1,0 +1,112 @@
+﻿11:50:40                      Starting Install Tracker service...
+11:50:41                      Service version: 0x105
+11:50:41                      Starting 'Krotten.exe'...
+11:50:41                      Installation monitor started
+11:50:41    Create Folder     C:\g1rFryAhrVg2xrt
+11:50:41    Create Folder     C:\z515rKKNwyyrEkx
+11:50:41    Create Folder     C:\OKZDdMvPhQTgQT5
+11:50:41    Create Folder     C:\g6QpgrhJDdQZeF0
+11:50:41    Create Folder     C:\eDFUqDqCUaUK66W
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\[@]DisableTaskMgr
+11:50:41    Create Key        HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System\[@]DisableTaskMgr
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\[@]DisableRegistryTools
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System\[@]NoDispCPL
+11:50:41    Create Key        HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\DelegateFolders\{59031a47-3f72-44a7-89c5-5595fe6b30ee}
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\LanmanServer\Parameters\[@]DiskSpaceThreshold
+11:50:41    Create Key        HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Internet Explorer
+11:50:41    Create Key        HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Internet Explorer\Restrictions
+11:50:41    Create Key        HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer
+11:50:41    Create Key        HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions\[@]NoBrowserClose
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions\[@]NoNavButtons
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions\[@]NoSelectDownloadDir
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions\[@]NoBrowserContextMenu
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Policies\Microsoft\Internet Explorer\Restrictions\[@]NoBrowserOptions
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\[@]NoViewContextMenu
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Advanced\[@]Start_ShowRun
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Internet Explorer\Main\[@]Window title
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\[@]LegalNoticeCaption
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\[@]LegalNoticeText
+11:50:41    Create Key        HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Winlogon
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Winlogon\[@]LegalNoticeCaption
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Winlogon\[@]LegalNoticeText
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\SystemRestore\[@]DisableSR
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows NT\CurrentVersion\SystemRestore\[@]RPLifeInterval
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\[@]Window title
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuPinnedList
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuMFUprogramsList
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuSubFolders
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoCommonGroups
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSMMyPictures
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuMyMusic
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSMMyDocs
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoDesktop
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoViewOnDrive
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoControlPanel
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoDrives
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoRun
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoFind
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoFavoritesMenu
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoRecentDocsMenu
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoLogOff
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoClose
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSaveSettings
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoUserNameInStartMenu
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoToolbarCustomize
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoThemesTab
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSMHelp
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoPrinterTabs
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoPrinters
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoNetHood
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoManageMyComputerVerb
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\NonEnum\[@]{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\NonEnum\[@]{450D8FBA-AD25-11D0-98A8-0800361B1103}
+11:50:41    Create Key        HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Uninstall
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Uninstall\[@]NoAddRemovePrograms
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\[@]NoViewContextMenu
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\[@]Start_ShowRun
+11:50:41    Create Key        HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuPinnedList
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuMFUprogramsList
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuSubFolders
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoCommonGroups
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSMMyPictures
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoStartMenuMyMusic
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSMMyDocs
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoDesktop
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoActiveDesktop
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoViewOnDrive
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoControlPanel
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoDrives
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoRun
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoFind
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoFavoritesMenu
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoRecentDocsMenu
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoLogOff
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoClose
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSaveSettings
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoUserNameInStartMenu
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoToolbarCustomize
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoThemesTab
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoSMHelp
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoPrinterTabs
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoPrinters
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoNetHood
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\[@]NoManageMyComputerVerb
+11:50:41    Create Key        HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\NonEnum\[@]{20D04FE0-3AEA-1069-A2D8-08002B30309D}
+11:50:41    Create Key        HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Uninstall\[@]NoAddRemovePrograms
+11:50:41    Set Value         HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System\[@]DisableRegistryTools
+11:50:41    Create Folder     C:\xsQCwdXAvxpla8P
+11:50:41    Create Folder     C:\Windows 91
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run\[@]svchost
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run\[@]AVPCC
+11:50:41    Set Value         HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\[@]NoDispCPL
+11:50:45    Process Killed    C:\Users\GrumpBoat\Desktop\Krotten.exe
+11:50:45                      All installation processes are finished
+11:50:45                      Setup is completed
+11:50:45                      Tracking service is stopped
+11:50:45                      Analyzing installation, please wait...
+11:50:45                      0 installation entries detected

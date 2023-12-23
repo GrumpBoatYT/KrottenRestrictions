@@ -1,0 +1,9 @@
+D:\Software\Development\KrottenRestrictions\bin\Debug\KrottenRestrictions.exe
+D:\Software\Development\KrottenRestrictions\bin\Debug\KrottenRestrictions.pdb
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.csproj.AssemblyReference.cache
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.Form1.resources
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.Properties.Resources.resources
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.csproj.GenerateResource.cache
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.csproj.CoreCompileInputs.cache
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.exe
+D:\Software\Development\KrottenRestrictions\obj\Debug\KrottenRestrictions.pdb
